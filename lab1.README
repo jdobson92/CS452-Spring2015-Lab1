@@ -1,1 +1,10 @@
-name, date, description
+
+John Dobson
+1/28/15
+
+The program initially displays a trapezoid. 
+A mouseclick will cause the trapezoid to be 
+replaced with a triangle. Another mouseclick
+will replace the triangle with a square. 
+This cycle of 3 shape changes will cycle through
+with each mouseclick indefinitely.
